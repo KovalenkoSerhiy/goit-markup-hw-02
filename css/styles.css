@@ -79,6 +79,7 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
   /* color: #F4F4FD; */
 }
 .footer-text {
